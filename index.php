@@ -45,25 +45,18 @@
 		<h5 class="text-center">HOTEL | SPA | GYM | FINE DINING</h5>
 		
 </div>
+	
 
-<br>
-<br>
-		
-
-<div class="row">
+<div id="book_a_package" class="row" style="background-image: url('images/package-bg.jpg');">
 	<h1 class="text-center">Book a package</h1> 
 
-	<br>
-	<br>
 
 	<p>Sed euismod sem id consequat rutrum. Ut convallis lorem a orci mollis, eu vulputate libero aliquet. Praesent egestas nisi sed purus tincidunt faucibus. Aliquam lobortis orci lacus, sed faucibus augue dapibus vitae. Ut vitae mi sapien. Phasellus a eros justo. Curabitur odio massa, tincidunt nec nibh sit amet</p>
 	
 </div>
 
-<br>
-<br>
 
-<div class="row text-center">
+<div id="room_types" class="row text-center" style="background-image: url('images/rooms.jpg');">
 
 	<h1 class="text-center"> Our Room Types </h1>
 
@@ -116,12 +109,35 @@
 	</div>
 </div>
 
+
+<div class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="2.jpg" alt="First slide">
+      this is number 1
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/1.jpg" alt="Second slide">
+      this is number 2
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="3.jpg" alt="Third slide">
+      this is number 3
+    </div>
+  </div>
+
+		
+	
+</div>
+
 <div class="footer">
 	<div class="text-center">
 		With love from PREGNITO
 	</div>
 </div>
 
+
+<link rel="stylesheet" href="bootstrap/js/jquery-3.2.1.min.js">
 <link href="bootstrap/js/bootstrap.min.js" rel="stylesheet">
 
  </body>

@@ -1,8 +1,9 @@
 body{
-
-	height: 100%;
-	width: 100%;
 	overflow-x: hidden;
+}
+
+#book_a_package{
+	padding: 40px;
 }
 
 #top{
