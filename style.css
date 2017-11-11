@@ -1,0 +1,25 @@
+body{
+
+	height: 100%;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+#top{
+
+	background-color: blue;
+	color: white;
+}
+
+hr{
+	background-color: white;
+	padding: 1px;
+	width: 50%;
+}
+h1,h3{
+	text-align: right;
+}
+
+h3{
+	text-align: center;
+}
